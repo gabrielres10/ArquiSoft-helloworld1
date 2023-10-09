@@ -1,10 +1,10 @@
 <state>
-  <timestamp value='1692707941057' />
+  <timestamp value='1696854216911' />
   <sourceSet name='default'>
-    <source name='/home/swarch/Desktop/A00377741/test/helloworld/Printer.ice'>
-      <file name='/home/swarch/Desktop/A00377741/test/helloworld/client/build/generated-src/Demo/Printer.java' />
-      <file name='/home/swarch/Desktop/A00377741/test/helloworld/client/build/generated-src/Demo/PrinterPrx.java' />
-      <file name='/home/swarch/Desktop/A00377741/test/helloworld/client/build/generated-src/Demo/_PrinterPrxI.java' />
+    <source name='/home/swarch/Desktop/A00377741/ArquiSoft-helloworld1/helloworld/Printer.ice'>
+      <file name='/home/swarch/Desktop/A00377741/ArquiSoft-helloworld1/helloworld/client/build/generated-src/Demo/Printer.java' />
+      <file name='/home/swarch/Desktop/A00377741/ArquiSoft-helloworld1/helloworld/client/build/generated-src/Demo/PrinterPrx.java' />
+      <file name='/home/swarch/Desktop/A00377741/ArquiSoft-helloworld1/helloworld/client/build/generated-src/Demo/_PrinterPrxI.java' />
     </source>
     <arg value='/opt/Ice-3.7.6/bin/slice2java' />
     <arg value='-I/opt/Ice-3.7.6/slice' />
